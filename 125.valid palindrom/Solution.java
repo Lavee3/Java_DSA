@@ -3,6 +3,7 @@ class Solution {
         if(s.length()==0 ){
             return true;
         }
+        
         int left = 0;
         int right = s.length()-1;
 
